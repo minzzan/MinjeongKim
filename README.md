@@ -5,8 +5,7 @@
 - I'm a student from Incheon National University.
 - My major is Embedded system engineering.
 
-- You can see more information about me in my blog:)
-
+- You can get more information about me in my blog:)
 <https://blog.naver.com/kmmjj1106>
 
 <a href="https://instagram.com/muengx2">
