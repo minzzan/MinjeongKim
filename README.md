@@ -6,7 +6,7 @@
 - My major is Embedded system engineering.
 
 - You can see more information about me in my blog:)
-<blog.naver.com/kmmjj1106>
+<https://blog.naver.com/kmmjj1106>
 
 <a href="https://instagram.com/muengx2">
     <img 
