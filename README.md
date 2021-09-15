@@ -7,7 +7,7 @@
 
 ![Minzzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzzan&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minzzan&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minzzan&layout=compact)
 
 
 - You can get more information about me in my blog:information_desk_person:
