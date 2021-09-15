@@ -17,4 +17,4 @@
 
 - Portfolio
 
-<a href="https://blog.naver.com/kmmjj1106" target="_blank"><img src="https://img.shields.io/badge/-Notion-white?style=flat&logo=Notion&logoColor=#000000"/></a>
+<a href="https://blog.naver.com/kmmjj1106" target="_blank"><img src="https://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&logoColor=#000000"/></a>
