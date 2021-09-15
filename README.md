@@ -6,7 +6,7 @@
 - My major is Embedded System Engineering.
 
 - You can get more information about me in my blog:information_desk_person: 
-<a href="https://blog.naver.com/kmmjj1106" target="_blank"><img src="https://img.shields.io/badge/#03C75A?style=flat&logo=Naver&logoColor=#03C75A"/></a>
+<a href="https://blog.naver.com/kmmjj1106" target="_blank"><img src="https://img.shields.io/badge/-Naver-black?style=flat&logo=Naver&logoColor=#03C75A"/></a>
 
 <https://muengx2.tistory.com/>
 
