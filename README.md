@@ -5,6 +5,10 @@
 - I'm a student from Incheon National University.
 - My major is Embedded System Engineering.
 
+![Minzzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzzan&show_icons=true&theme=radical)
+
+
+
 - You can get more information about me in my blog:information_desk_person:
 <div></div> 
 <a href="https://blog.naver.com/kmmjj1106" target="_blank"><img src="https://img.shields.io/badge/-Naver-white?style=flat&logo=Naver&logoColor=#03C75A"/></a>
