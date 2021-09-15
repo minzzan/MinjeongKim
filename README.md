@@ -5,15 +5,9 @@
 - I'm a student from Incheon National University.
 - My major is Embedded System Engineering.
 
-- You can get more information about me in my blog:information_desk_person: 
+- You can get more information about me in my blog:information_desk_person:
+<div></div> 
 <a href="https://blog.naver.com/kmmjj1106" target="_blank"><img src="https://img.shields.io/badge/-Naver-white?style=flat&logo=Naver&logoColor=#03C75A"/></a>
-
-<https://muengx2.tistory.com/>
-
-<a href="https://instagram.com/muengx2">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="https://muengx2.tistory.com" target="_blank"><img alt="Tistory" src="/badge/-important-important"></a>
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmmjj1106@gmail.com)](mailto:kmmjj1106@gmail.com)
