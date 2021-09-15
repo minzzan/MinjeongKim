@@ -15,6 +15,6 @@
 <a href="https://blog.naver.com/kmmjj1106" target="_blank"><img src="https://img.shields.io/badge/-Naver-white?style=flat&logo=Naver&logoColor=#03C75A"/></a>
 <a href="https://muengx2.tistory.com" target="_blank"><img alt="Tistory" src="https://img.shields.io/badge/-Tistory-important"></a>
 
-- Portfolio
-
-<a href="https://blog.naver.com/kmmjj1106" target="_blank"><img src="https://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&logoColor=#000000"/></a>
+- Portfolio 
+<div></div>
+<a href="https://blog.naver.com/kmmjj1106" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Notion&logoColor=#000000"/></a>
